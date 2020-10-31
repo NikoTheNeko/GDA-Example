@@ -422,7 +422,8 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"collection":{"$content":[{"name":"Speed","value":{"$content":10,"$type":"System.Int32"},"$version":"A"},{"name":"Jump
       Force","value":{"$content":400,"$type":"System.Int32"},"$version":"A"},{"name":"Jumps
-      Remain","value":{"$content":1,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Remain","value":{"$content":2,"$type":"System.Int32"},"$version":"A"},{"name":"Jump
+      State","value":{"$content":"Grounded","$type":"System.String"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!1 &1481900171
 GameObject:
